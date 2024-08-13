@@ -11,16 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h2> Key Publications </h2>
-
-{% for post in site.publications reversed %}
-  {% if post.featured %}
-  {% include archive-single-publication.html %}
-  {% endif %}
-{% endfor %}
-
-<h2> All Publications </h2>
-
 {% for post in site.publications reversed %}
   {% unless post.featured %}
   {% include archive-single-publication.html %}
