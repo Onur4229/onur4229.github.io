@@ -3,7 +3,7 @@ title: 'Air Hockey Challenge 2023: Air-HocKIT Team Report'
 collection: publications
 permalink: /publication/air_hockey
 date: 2023-12-10
-venue: 'Robot Air Hockey Challenge @ Neurips 2023'
+venue: 'Robot Air Hockey Challenge @ Neurips'
 authors: 'Mustafa E. Batur, Vincent de Bakker, Atalay Donat, Ömer E. Yagmurlu, Marcus Fiedler, Zeqi Jin, Dongxu Yang, Hongyi Zhou, <b>Onur Celik</b>, Fabian Otto, Rudolf Lioutikov, Gerhard Neumann'
 paperurl: 'https://www.ias.informatik.tu-darmstadt.de/uploads/Team/PuzeLiu/AirHockeyChallenge_Air-HocKIT.pdf'
 #codeurl: 'https://github.com/Onur4229/SVSL_LMOE'
