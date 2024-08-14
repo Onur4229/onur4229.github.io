@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Onur Celik"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student working on Diverse Skill Discovery"
+  bio              : "PhD Student working on Diverse Skill Discovery using Reinforcement Learning"
   location         : "Karlsruhe, Germany"
   employer         : "Karlsruhe Institute of Technology"
   uri              : # URL
