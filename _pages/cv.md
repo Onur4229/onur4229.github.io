@@ -17,6 +17,7 @@ Autonomous Learning Robots Lab, Karlsruhe Institute of Technology (KIT), 2020-20
 
 My research interests include:
 * **Reinforcement Learning for diverse skill discovery**  
+  * Training Diffusion-Based policies in reinforcement learning  
   * Mixture of Experts policies for acquiring diverse skills
   * Automatic curriculum learning of each individual expert to boost learning
   * Information-theoretic trust regions for black-box reinforcement learning
@@ -36,9 +37,16 @@ Technische Universität Darmstadt, 2011-2015
 
 Work experience
 ======
+**Postdoctoral Researcher**
+
+Autonomous Learning Robots Lab, Karlsruhe Institute of Technology (KIT), 2025-present
+  * Student supervision (B.Sc. and M.Sc.) and co-supervision of PhD students 
+  * Guest lecturer in reinforcement learning 
+
+
 **Doctoral Researcher**
 
-Autonomous Learning Robots Lab, Karlsruhe Institute of Technology (KIT), 2020-present
+Autonomous Learning Robots Lab, Karlsruhe Institute of Technology (KIT), 2020-2025
   * Student supervision (B.Sc. and M.Sc.) of more than 25 students
   * Head Teaching Assistant for four semesters for the lecture "Machine Learning - Foundations and Algorithms"
   * Head Teaching Assistant for four semesters for the lecture "Reinforcement Learning"
