@@ -25,8 +25,6 @@ Humans excel at solving same or similar tasks in versatile ways, which makes the
 One of my favorite examples of this adaptability and usage of versatile human-skills is in sports like table tennis, where players can use different techniques (e.g., forehand, backhand) depending on the opponent's strategy.  
 </p>
 <p>
- 
-[//]: # (In recent years, my work therefore has focused on developing <a href="https://arxiv.org/abs/2210.09622"> reinforcement learning </a> algorithms that enable agents to learn policies )
 In recent years, my work therefore has focused on developing reinforcement learning algorithms that enable agents to learn policies
 capable of representing diverse behaviors. Most recently we developped <a href="https://alrhub.github.io/dime-website/"> DIME</a>, a diffusion-based reinforcement learning algorithm that enables learning multi-modal policies in the maximum entropy RL framework. 
 Other algorithms that I have developped incorporate techniques from variational inference and curriculum reinforcement learning for <a href="https://arxiv.org/abs/2403.06966"> energy-based</a> <a href="https://arxiv.org/abs/2112.04216">
